@@ -1,6 +1,6 @@
 # vue+vuex+leancloud 搭建的葡萄庄园公众号
 
-> 在下年轻时候的毕设
+> 在下年轻时候的毕设  抽空再更readme吧
 
 ## Build Setup
 
