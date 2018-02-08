@@ -1,0 +1,5 @@
+export const KEY_SHOPDETAIL = 'shopdetail'
+export const KEY_SELECTED_ADDRESS = 'selectedaddress'
+export const KEY_GOODS_COLLECTION = 'goodscollection'
+export const KEY_GOODS_CLEAR = 'goodsclear'
+export const KEY_CACHE_USER = 'cacheuser'
