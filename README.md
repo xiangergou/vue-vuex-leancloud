@@ -1,6 +1,6 @@
-# ergou
+# vue+vuex+leancloud 搭建的葡萄庄园公众号
 
-> ergou
+> 在下年轻时候的毕设
 
 ## Build Setup
 
